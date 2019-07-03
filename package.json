@@ -1,0 +1,13 @@
+{
+  "name": "design_mockup",
+  "version": "1.0.0",
+  "description": "google mockup using grid",
+  "main": "index.js",
+  "repository": "https://github.com/annetteia/google-mockup.git",
+  "author": "annetteia",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
